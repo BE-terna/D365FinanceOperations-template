@@ -396,3 +396,15 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# D365FO
+*.bak
+bin/
+resources/
+XppMetadata/
+BPCheck.xml
+BuildModelResult.xml
+BuildProjectResult.err.xml
+BuildProjectResult.xml
+CompileLabels.xml
+*.xref
